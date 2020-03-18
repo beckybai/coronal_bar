@@ -1,7 +1,7 @@
 
 # coronal_bar
-Put COVID-19 Data on the upper Mac menu. 👿
-![customize your own](./pictures/show.png)
+Put COVID-19 Data on the upper Mac menu. 👿 (Data comes from DEALMOON [dealmoon.com])
+![customize your own](./pictures/image.jpg)
 
 
 1. Own an Mac & Download bitbar[https://getbitbar.com]
